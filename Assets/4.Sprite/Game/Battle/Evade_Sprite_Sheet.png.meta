@@ -1,0 +1,1632 @@
+fileFormatVersion: 2
+guid: 2dfc2c7fabc70154598910611d7aca82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8415709539090117198
+    second: Evade_Sprite_Sheet_0
+  - first:
+      213: 3318726606939559708
+    second: Evade_Sprite_Sheet_1
+  - first:
+      213: -477567532751887673
+    second: Evade_Sprite_Sheet_2
+  - first:
+      213: 5339599364330307858
+    second: Evade_Sprite_Sheet_3
+  - first:
+      213: 6503029178089222774
+    second: Evade_Sprite_Sheet_4
+  - first:
+      213: -3977573333692506871
+    second: Evade_Sprite_Sheet_5
+  - first:
+      213: 3571255073232236774
+    second: Evade_Sprite_Sheet_6
+  - first:
+      213: 964774887878447657
+    second: Evade_Sprite_Sheet_7
+  - first:
+      213: -9158890178813389878
+    second: Evade_Sprite_Sheet_8
+  - first:
+      213: 6904300199182609932
+    second: Evade_Sprite_Sheet_9
+  - first:
+      213: -138417802484751921
+    second: Evade_Sprite_Sheet_10
+  - first:
+      213: -7447836111005693066
+    second: Evade_Sprite_Sheet_11
+  - first:
+      213: -6471184201671291824
+    second: Evade_Sprite_Sheet_12
+  - first:
+      213: 8787874875622357075
+    second: Evade_Sprite_Sheet_13
+  - first:
+      213: 8854501689135122759
+    second: Evade_Sprite_Sheet_14
+  - first:
+      213: 4197017635435103086
+    second: Evade_Sprite_Sheet_15
+  - first:
+      213: -8390496971698395288
+    second: Evade_Sprite_Sheet_16
+  - first:
+      213: -8683816105493518738
+    second: Evade_Sprite_Sheet_17
+  - first:
+      213: -7169957652186591171
+    second: Evade_Sprite_Sheet_18
+  - first:
+      213: 3947541236362813935
+    second: Evade_Sprite_Sheet_19
+  - first:
+      213: 7558568861876412706
+    second: Evade_Sprite_Sheet_20
+  - first:
+      213: 8807900326328097071
+    second: Evade_Sprite_Sheet_21
+  - first:
+      213: 8427444089469057079
+    second: Evade_Sprite_Sheet_22
+  - first:
+      213: 4384830000299156983
+    second: Evade_Sprite_Sheet_23
+  - first:
+      213: -7016946478743127925
+    second: Evade_Sprite_Sheet_24
+  - first:
+      213: 3777457388430455639
+    second: Evade_Sprite_Sheet_25
+  - first:
+      213: -4777710418628869923
+    second: Evade_Sprite_Sheet_26
+  - first:
+      213: -4783692239358614769
+    second: Evade_Sprite_Sheet_27
+  - first:
+      213: -4054478158380262663
+    second: Evade_Sprite_Sheet_28
+  - first:
+      213: 7770731109533936082
+    second: Evade_Sprite_Sheet_29
+  - first:
+      213: 266666335938577492
+    second: Evade_Sprite_Sheet_30
+  - first:
+      213: -5274109124453434288
+    second: Evade_Sprite_Sheet_31
+  - first:
+      213: -8289220390082935958
+    second: Evade_Sprite_Sheet_32
+  - first:
+      213: -4146998051564663014
+    second: Evade_Sprite_Sheet_33
+  - first:
+      213: 3197132400123892782
+    second: Evade_Sprite_Sheet_34
+  - first:
+      213: -2205780932776227866
+    second: Evade_Sprite_Sheet_35
+  - first:
+      213: -517219907055926063
+    second: Evade_Sprite_Sheet_36
+  - first:
+      213: -4888431296854202091
+    second: Evade_Sprite_Sheet_37
+  - first:
+      213: 6806967993677353690
+    second: Evade_Sprite_Sheet_38
+  - first:
+      213: -4827650726703349294
+    second: Evade_Sprite_Sheet_39
+  - first:
+      213: 5066886465028949478
+    second: Evade_Sprite_Sheet_40
+  - first:
+      213: 8420586461891229878
+    second: Evade_Sprite_Sheet_41
+  - first:
+      213: 1138875345455932989
+    second: Evade_Sprite_Sheet_42
+  - first:
+      213: -2019573364549720410
+    second: Evade_Sprite_Sheet_43
+  - first:
+      213: 1469645294231156739
+    second: Evade_Sprite_Sheet_44
+  - first:
+      213: -4780836177417250637
+    second: Evade_Sprite_Sheet_45
+  - first:
+      213: 6787589724839578358
+    second: Evade_Sprite_Sheet_46
+  - first:
+      213: -3402679282968322364
+    second: Evade_Sprite_Sheet_47
+  - first:
+      213: 4366582781783726850
+    second: Evade_Sprite_Sheet_48
+  - first:
+      213: 93512079444631366
+    second: Evade_Sprite_Sheet_49
+  - first:
+      213: 4539493547062961336
+    second: Evade_Sprite_Sheet_50
+  - first:
+      213: 7487039180841532754
+    second: Evade_Sprite_Sheet_51
+  - first:
+      213: 6436414169794138037
+    second: Evade_Sprite_Sheet_52
+  - first:
+      213: 2352702612117701911
+    second: Evade_Sprite_Sheet_53
+  - first:
+      213: -1440823123800028087
+    second: Evade_Sprite_Sheet_54
+  - first:
+      213: 2337284681694643758
+    second: Evade_Sprite_Sheet_55
+  - first:
+      213: 6437604034066149476
+    second: Evade_Sprite_Sheet_56
+  - first:
+      213: 1279445667640920200
+    second: Evade_Sprite_Sheet_57
+  - first:
+      213: -2478926647442907551
+    second: Evade_Sprite_Sheet_58
+  - first:
+      213: -8264874518800806522
+    second: Evade_Sprite_Sheet_59
+  - first:
+      213: 6676469050141294036
+    second: Evade_Sprite_Sheet_60
+  - first:
+      213: 3698009588467923895
+    second: Evade_Sprite_Sheet_61
+  - first:
+      213: 3287009962825138547
+    second: Evade_Sprite_Sheet_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42355acc3b9ac470800000000000000
+      internalID: 8415709539090117198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 408
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c171541044c7e0e20800000000000000
+      internalID: 3318726606939559708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 408
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c26016fbd65f59f0800000000000000
+      internalID: -477567532751887673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 408
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2114fc9d4511a1a40800000000000000
+      internalID: 5339599364330307858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 408
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672320c35966f3a50800000000000000
+      internalID: 6503029178089222774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d11398022dcc8c0800000000000000
+      internalID: -3977573333692506871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 374
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0b15a5195af8130800000000000000
+      internalID: 3571255073232236774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 374
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922563026a1936d00800000000000000
+      internalID: 964774887878447657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 374
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3930388e515e080800000000000000
+      internalID: -9158890178813389878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 374
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e20fa537001df50800000000000000
+      internalID: 6904300199182609932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc16e44fdbd341ef0800000000000000
+      internalID: -138417802484751921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 340
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bcd227488f3a890800000000000000
+      internalID: -7447836111005693066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 340
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c434f114cb136a0800000000000000
+      internalID: -6471184201671291824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 340
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358fc04a3adc4f970800000000000000
+      internalID: 8787874875622357075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 340
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749cef38f5281ea70800000000000000
+      internalID: 8854501689135122759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63c82c7d4dce3a30800000000000000
+      internalID: 4197017635435103086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 306
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8672de08577fe8b80800000000000000
+      internalID: -8390496971698395288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 306
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e662e39c243ec7780800000000000000
+      internalID: -8683816105493518738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 306
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3013ded0813f7c90800000000000000
+      internalID: -7169957652186591171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 306
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1ac99e6db78c630800000000000000
+      internalID: 3947541236362813935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221e876355e65e860800000000000000
+      internalID: 7558568861876412706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 272
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2955d73ea2fb3a70800000000000000
+      internalID: 8807900326328097071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 272
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738b445bfbb44f470800000000000000
+      internalID: 8427444089469057079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 272
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5ae4847ab0adc30800000000000000
+      internalID: 4384830000299156983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 272
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88769eda5cce9e90800000000000000
+      internalID: -7016946478743127925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753729f1b793c6430800000000000000
+      internalID: 3777457388430455639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 238
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd081f900b922bdb0800000000000000
+      internalID: -4777710418628869923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 238
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03ac3ed049ec9db0800000000000000
+      internalID: -4783692239358614769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 238
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa1a24b8999bb7c0800000000000000
+      internalID: -4054478158380262663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 238
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9e8d4e5ce27db60800000000000000
+      internalID: 7770731109533936082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4548c23ae9363b300800000000000000
+      internalID: 266666335938577492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 204
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c7e4ad1b99ec6b0800000000000000
+      internalID: -5274109124453434288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 204
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a638e2039f5c6fc80800000000000000
+      internalID: -8289220390082935958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 204
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f404c6e37e276c0800000000000000
+      internalID: -4146998051564663014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 204
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24d6419afe7e5c20800000000000000
+      internalID: 3197132400123892782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb0b89aded7361e0800000000000000
+      internalID: -2205780932776227866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 170
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4cb212c3772d8f0800000000000000
+      internalID: -517219907055926063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 170
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5196a12b2adc82cb0800000000000000
+      internalID: -4888431296854202091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 170
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2979c4355377e50800000000000000
+      internalID: 6806967993677353690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 170
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1c037fd3db00db0800000000000000
+      internalID: -4827650726703349294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e50949f462315640800000000000000
+      internalID: 5066886465028949478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 136
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b87d7dd5ceebd470800000000000000
+      internalID: 8420586461891229878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 136
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36e959b7191ecf00800000000000000
+      internalID: 1138875345455932989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 136
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a66c20a9b809f3e0800000000000000
+      internalID: -2019573364549720410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 136
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308f87ccb9a356410800000000000000
+      internalID: 1469645294231156739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b855bb93de07adb0800000000000000
+      internalID: -4780836177417250637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa872e74ec523e50800000000000000
+      internalID: 6787589724839578358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 102
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce9716683147c0d0800000000000000
+      internalID: -3402679282968322364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 102
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b5e86a7e7399c30800000000000000
+      internalID: 4366582781783726850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 102
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f5185adb83c4100800000000000000
+      internalID: 93512079444631366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4addc64558ffe30800000000000000
+      internalID: 4539493547062961336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 68
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dbd79877e47e760800000000000000
+      internalID: 7487039180841532754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 68
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfced9f59cb25950800000000000000
+      internalID: 6436414169794138037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 68
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715c8618f8a76a020800000000000000
+      internalID: 2352702612117701911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 68
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c0bb1b00b210ce0800000000000000
+      internalID: -1440823123800028087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e260f57d804bf6020800000000000000
+      internalID: 2337284681694643758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 34
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4607227d2c6f65950800000000000000
+      internalID: 6437604034066149476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 34
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88846215e0181c110800000000000000
+      internalID: 1279445667640920200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 34
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e5aea1955199dd0800000000000000
+      internalID: -2478926647442907551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 34
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d43b11a644d4d80800000000000000
+      internalID: -8264874518800806522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddbf874a3597ac50800000000000000
+      internalID: 6676469050141294036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb7e98b028f15330800000000000000
+      internalID: 3698009588467923895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evade_Sprite_Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371cc57552ecd9d20800000000000000
+      internalID: 3287009962825138547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
