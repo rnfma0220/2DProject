@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/1.Scene/Intro/MainMemu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/1.Scene/Intro/Intro.unity
+    guid: 93c6a4610955eea41bd31b520db29152
+  - enabled: 1
+    path: Assets/1.Scene/Intro/Intro2.unity
+    guid: 2b59d9fa39986c94cb2d5eadb26ad18f
+  - enabled: 1
+    path: Assets/1.Scene/Intro/Intro3.unity
+    guid: 121b11084c2e6594384be56f2ee9ce41
+  - enabled: 1
+    path: Assets/1.Scene/Player/PlayerAbility.unity
+    guid: 12063d75a8ef49d4894989e37554e413
+  - enabled: 1
+    path: Assets/1.Scene/Player/PlayerInv.unity
+    guid: 1872a245d499c7f4bb25210119066aa3
+  - enabled: 1
+    path: Assets/1.Scene/Player/Battle_tutorial.unity
+    guid: 23dc7dc43f844394a80909d263436e87
+  - enabled: 1
+    path: Assets/1.Scene/Map/Map001.unity
+    guid: 98706ad0edc690245a5c730371b4ee22
+  - enabled: 1
+    path: Assets/1.Scene/Map/Map002.unity
+    guid: acf81d349089fc6408d64e6196ee3b7f
+  - enabled: 1
+    path: Assets/1.Scene/Map/Map003.unity
+    guid: aeebb86660939084b82081d8bddcac49
+  - enabled: 1
+    path: Assets/1.Scene/Map/Map004.unity
+    guid: 8401c0c5d9fc1c742a1de4454382979d
+  - enabled: 1
+    path: Assets/1.Scene/Map/Map005.unity
+    guid: 8471e8a5f63a7d84a8801ebe9813c4f5
+  - enabled: 1
+    path: Assets/1.Scene/Map/Map006.unity
+    guid: 37bcb5078df21a643a6fb1fd930f0e68
+  - enabled: 1
+    path: Assets/1.Scene/Map/Map007.unity
+    guid: efdce6efff9194a41a737a44d88ea6b7
+  - enabled: 1
+    path: Assets/1.Scene/Map/Map008.unity
+    guid: 51fea08826d808f43ae1f634e2720e98
+  m_configObjects: {}
